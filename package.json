@@ -30,7 +30,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "browserify-shim": "https://github.com/nwinter/grunt-browserify/tarball/master",
+    "browserify-shim": "https://github.com/nwinter/browserify-shim/tarball/master",
     "through": "~2.3.4",
     "lodash": "~2.4.1",
     "async": "~0.2.9"
