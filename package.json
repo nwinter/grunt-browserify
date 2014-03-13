@@ -36,14 +36,14 @@
     "async": "~0.2.9"
   },
   "devDependencies": {
-    "browserify": "~3.20",
+    "browserify": "3.24.8",
     "grunt-contrib-jshint": "0.1.x",
     "grunt-contrib-clean": "~0.4.0",
     "grunt-contrib-nodeunit": "~0.2.0",
     "jsdom": "~0.6.0"
   },
   "peerDependencies": {
-    "browserify": ">=2.35 < 4.0.0",
+    "browserify": "3.24.8",
     "grunt": "~0.4.0"
   },
   "keywords": [
